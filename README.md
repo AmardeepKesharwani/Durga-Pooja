@@ -1,3 +1,9 @@
 ## Durga Pooja and Dussehra Special
 
-[view live](https://amardeepkesharwani.github.io/Durga-Pooja/)
+### [👉 Live Preview](https://amardeepkesharwani.github.io/Durga-Pooja/)
+
+![image](https://amardeepkesharwani.github.io/Durga-Pooja/assets/preview/1.jpg)
+
+![image](https://amardeepkesharwani.github.io/Durga-Pooja/assets/preview/2.jpg)
+
+![image](https://amardeepkesharwani.github.io/Durga-Pooja/assets/preview/3.jpg)
